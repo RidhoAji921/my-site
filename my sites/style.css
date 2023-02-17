@@ -107,3 +107,8 @@ aside ul .list-menu{
 #side-menu::-webkit-scrollbar {
     width: 0px;
 }
+
+#content-card-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
